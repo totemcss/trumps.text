@@ -1,0 +1,10 @@
+{
+  "name": "totem-trumps-text",
+  "version": "0.1.0",
+  "authors": "Florian Bouvot",
+  "main": "_generic.viewport.scss",
+  "ignore": [
+    "test",
+    ".*"
+  ]
+}
